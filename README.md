@@ -45,4 +45,11 @@
 :robot:    :rocket:   :man_technologist:
 
 
+Resolução do Projeto🧑‍💻
+
+<p align="center">
+    <img windth="470" src="https://github.com/Rubensrma/NETFLIX-CLONE/blob/master/img/CONCLUSAO.jpg">
+</p>
+
+
 
