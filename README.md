@@ -52,4 +52,13 @@ Resolução do Projeto🧑‍💻
 </p>
 
 
+<p align="center">
+    <img windth="470" src="https://github.com/Rubensrma/NETFLIX-CLONE/blob/master/img/INICIO.jpg">
+</p>
+
+
+<p align="center">
+    <img windth="470" src="https://github.com/Rubensrma/NETFLIX-CLONE/blob/master/img/INICIO2.jpg">
+</p>
+
 
