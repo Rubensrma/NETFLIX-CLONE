@@ -1,6 +1,6 @@
 ## Recriando a interface do Netflix:tv:
 
-- **Digital Innovation One  - ** **Prof. Felipe Aguiar.**
+- **Digital Innovation One**  -  **Prof. Felipe Aguiar.**
 
 
 
