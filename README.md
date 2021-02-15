@@ -34,6 +34,7 @@
 
 - Elementos e Seletores / Variaveis CSS.
 
+- Bootstrap Framework front-end.
 - Reset CSS.
 
 - CSS Flexible Box Layout, conhecido como Flexbox, é um modelo de layout da Web CSS3.
